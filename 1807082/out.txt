@@ -1,0 +1,54 @@
+
+valid declaration
+
+(a) Value of the variable: 10	
+Variable value: 10
+OUTPUT: 10
+
+(b) Value of the variable: 5	
+Variable value: 5
+OUTPUT: 5
+Variable value: 10
+Variable value: 5
+
+(c) Value of the variable: 15	
+Variable value: 15
+OUTPUT: 15
+Variable value: 10
+Variable value: 5
+Variable value: 15
+OUTPUT: 30
+Variable value: 10
+inc: 11
+
+value of expression: 11
+Variable value: 5
+inc: 6
+
+value of expression: 6
+
+condition value zero in IF block
+Variable value: 10
+Variable value: 5
+
+value of expression in ELSE: 1215752191
+
+value of expression middle ELSE: 10
+
+value of expression in first IF: 15
+
+value of expression in ELIF: 7
+Variable value: 5
+Variable value: 10
+for loop statement
+for loop statement
+for loop statement
+for loop statement
+for loop statement
+While LOOP: 0 1 2 3 4 5 
+value of the expression: 6
+multiple_line_comment
+single line comment
+Function Declared
+
+Successful compilation
